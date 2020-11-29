@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+E:\Projects\My Github Repositories\MSP432P401R_Mini_System\Altium\Project Outputs for MSP432P401R_Mini_System\Pick Place for MSP432P401R_Mini_System.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/11/20
+Time:       21:21
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                                                                   
+P2         "Header 10X2"      TopLayer    HDR2X10         3065.000      1405.788      180      "Header, 10-Pin, Dual row"                                                                                    
+U3         ADS1118            TopLayer    ADS1118         2990.000      685.000       180      16位ADC芯片，将模拟电压信号转化为数字信号供单片机处理                                                                                 
+U2         DAC8571            TopLayer    DIP8-300_MH     2145.000      735.000       180      16位DAC芯片，将数字量转化为模拟电压输出                                                                                        
+U1         AT24C02BN-SP25-B   TopLayer    DIP8-300_MH     3150.000      1935.000      270      "2Kbit (256 x 8), 2-wire Bus Automotive Serial EEPROM with full memory Write Protect, 2.5V, 8-Pin SOIC, Bulk" 
+S4         S4                 TopLayer    TSW_SMD-3*6*4.3 450.000       330.000       360      "Tactile Switch触觉开关"                                                                                          
+S3         S3                 TopLayer    TSW_SMD-3*6*4.3 1155.000      330.000       360      "Tactile Switch触觉开关"                                                                                          
+S2         S2                 TopLayer    TSW_SMD-3*6*4.3 450.000       820.000       360      "Tactile Switch触觉开关"                                                                                          
+S1         S1                 TopLayer    TSW_SMD-3*6*4.3 1155.000      820.000       360      "Tactile Switch触觉开关"                                                                                          
+R5         500                TopLayer    0805_R          2560.000      3495.000      180      Resistor                                                                                                      
+R4         4.7k               TopLayer    0805_R          2964.961      1680.000      180      Resistor                                                                                                      
+R3         4.7k               TopLayer    0805_R          3135.040      1680.000      360      Resistor                                                                                                      
+R2         10k                TopLayer    0805_R          1855.040      785.000       180      Resistor                                                                                                      
+R1         10k                TopLayer    0805_R          1855.040      685.000       180      Resistor                                                                                                      
+Pp1        10k                TopLayer    RM065           2295.000      3595.000      90       3296电位器                                                                                                       
+P11        "Header 2"         TopLayer    HDR1X2          2059.055      3591.732      90       "Header, 2-Pin"                                                                                               
+P7         "Header 4"         TopLayer    HDR1X4          3485.000      785.000       90       "Header, 4-Pin"                                                                                               
+P6         DAC8571_Output     TopLayer    HDR-1X2_H       2135.000      325.000       360      "Header, 2-Pin"                                                                                               
+P5         LMT70              TopLayer    HDR-1X3_M       3075.000      3590.000      180      "Header, 3-Pin"                                                                                               
+P1         "Header 10X2"      TopLayer    HDR2X10         3065.000      3105.788      180      "Header, 10-Pin, Dual row"                                                                                    
+J8         Jump               TopLayer    JUMP            2645.000      3650.000      360      ""                                                                                                            
+J7         GND                BottomLayer WJ500V-5.08-2   3175.000      135.000       180      接线端子                                                                                                          
+J6         5V电源输出             BottomLayer WJ500V-5.08-2   3515.000      2640.000      270      接线端子                                                                                                          
+J5         3.3V电源输出           BottomLayer WJ500V-5.08-2   3536.995      3514.418      270      接线端子                                                                                                          
+J4         电源输入               TopLayer    XH2.54-2P       1465.000      3580.000      180      连接器                                                                                                           
+J3         Jump               TopLayer    JUMP            3445.000      1865.000      90       ""                                                                                                            
+J2         Jump               TopLayer    JUMP            1770.000      525.000       180      ""                                                                                                            
+D1         "4.0寸 TFT 480*320" TopLayer    4.0_TFT         1540.000      2425.000      270      ""                                                                                                            
+C2         0.1uF              TopLayer    0805_C          2405.512      649.999       90       CBB聚乙烯薄膜电容                                                                                                    
+C1         0.1uF              TopLayer    0805_C          3350.000      500.000       270      CBB聚乙烯薄膜电容                                                                                                    

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-2
+Removed Member From Class: ClassName=MSP432P401R_Mini_System Member=J1
+Added Pin To Net: NetName=3V3 Pin=P5-1
+Added Room: Name=MSP432P401R_Mini_System

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=P6.7 Pin=R3-1
+Removed Pin From Net: NetName=P6.6 Pin=R4-1
+Removed Pin From Net: NetName=P6.6 Pin=U1-5
+Removed Pin From Net: NetName=P6.7 Pin=U1-6
+Added Pin To Net: NetName=P6.6 Pin=R3-1
+Added Pin To Net: NetName=P6.7 Pin=R4-1
+Added Pin To Net: NetName=P6.7 Pin=U1-5
+Added Pin To Net: NetName=P6.6 Pin=U1-6
+Added Room: Name=MSP432P401R_Mini_System

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=P3.2 Pin=P3-1
+Removed Pin From Net: NetName=P6.5 Pin=P3-2
+Removed Pin From Net: NetName=P6.4 Pin=P3-3
+Removed Pin From Net: NetName=P4.2 Pin=P3-4
+Removed Pin From Net: NetName=P4.5 Pin=P3-5
+Removed Pin From Net: NetName=P5.4 Pin=P3-6
+Removed Pin From Net: NetName=P2.3 Pin=P3-7
+Removed Pin From Net: NetName=P2.5 Pin=P4-1
+Removed Pin From Net: NetName=P3.0 Pin=P4-2
+Removed Pin From Net: NetName=P5.7 Pin=P4-3
+Removed Pin From Net: NetName=P1.7 Pin=P4-4
+Removed Member From Class: ClassName=MSP432P401R_Mini_System Member=P3
+Removed Member From Class: ClassName=MSP432P401R_Mini_System Member=P4
+Added Room: Name=MSP432P401R_Mini_System

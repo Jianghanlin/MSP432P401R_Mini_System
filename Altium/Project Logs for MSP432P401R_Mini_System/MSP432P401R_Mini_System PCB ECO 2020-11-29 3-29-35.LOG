@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=P8-1
+Removed Pin From Net: NetName=3V3 Pin=P8-2
+Removed Pin From Net: NetName=3V3 Pin=P8-3
+Removed Pin From Net: NetName=3V3 Pin=P8-4
+Removed Pin From Net: NetName=5V Pin=P9-1
+Removed Pin From Net: NetName=5V Pin=P9-2
+Removed Pin From Net: NetName=5V Pin=P9-3
+Removed Pin From Net: NetName=5V Pin=P9-4
+Removed Pin From Net: NetName=GND Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=P10-2
+Removed Pin From Net: NetName=GND Pin=P10-3
+Removed Pin From Net: NetName=GND Pin=P10-4
+Removed Member From Class: ClassName=MSP432P401R_Mini_System Member=P8
+Removed Member From Class: ClassName=MSP432P401R_Mini_System Member=P9
+Removed Member From Class: ClassName=MSP432P401R_Mini_System Member=P10
+Change Component Designator: OldDesignator=  NewDesignator=P6
+Added Room: Name=MSP432P401R_Mini_System
